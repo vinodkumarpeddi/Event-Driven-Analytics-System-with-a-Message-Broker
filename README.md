@@ -66,7 +66,7 @@ A high-performance e-commerce analytics backend built with **CQRS** (Command Que
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/vinodkumarpeddi/Event-Driven-Analytics-System-with-a-Message-Broker
 cd MessageBroker
 
 # Start all services
